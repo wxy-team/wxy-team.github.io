@@ -5,7 +5,7 @@
     <link>/authors/sheldon-x.-d.-tan/</link>
       <atom:link href="/authors/sheldon-x.-d.-tan/index.xml" rel="self" type="application/rss+xml" />
     <description>Sheldon X.-D. Tan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sheldon X.-D. Tan</title>
@@ -15,7 +15,7 @@
     <item>
       <title>An Adaptive Electromigration Assessment Algorithm for Full-Chip Power/Ground Networks</title>
       <link>/publication/ma-2020-adaptive/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/ma-2020-adaptive/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Fast Physics-Based Electromigration Analysis for Multi-Branch Interconnect Trees</title>
       <link>/publication/wang-2017-fast/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/publication/wang-2017-fast/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Physics-Based Electromigration Modeling and Assessment for Multi-Segment Interconnects in Power Grid Networks</title>
       <link>/publication/wang-2017-physicsbased/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
       <guid>/publication/wang-2017-physicsbased/</guid>
       <description></description>
     </item>
