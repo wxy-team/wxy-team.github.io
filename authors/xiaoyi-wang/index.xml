@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoyi Wang | wxy-team</title>
+    <link>/authors/xiaoyi-wang/</link>
+      <atom:link href="/authors/xiaoyi-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoyi Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Xiaoyi Wang</title>
+      <link>/authors/xiaoyi-wang/</link>
+    </image>
+    
+    <item>
+      <title>An Adaptive Electromigration Assessment Algorithm for Full-Chip Power/Ground Networks</title>
+      <link>/publication/ma-2020-adaptive/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ma-2020-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Physics-Based Electromigration Analysis for Multi-Branch Interconnect Trees</title>
+      <link>/publication/wang-2017-fast/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2017-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-Based Electromigration Modeling and Assessment for Multi-Segment Interconnects in Power Grid Networks</title>
+      <link>/publication/wang-2017-physicsbased/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2017-physicsbased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupling Capacitance Efficient Placement for Reducing Transient Power Supply Noise</title>
+      <link>/publication/wang-2009-decoupling/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2009-decoupling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU Friendly Fast Poisson Solver for Structured Power Grid Network Analysis</title>
+      <link>/publication/shi-2009-gpu/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/shi-2009-gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Decoupling Capacitance Optimization Using Piecewise Polynomial Models</title>
+      <link>/publication/wang-2009-efficient/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2009-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Stage Power Supply Planning: A Heuristic Method for Codesign of Power/Ground Network and Floorplan</title>
+      <link>/publication/wang-2008-early/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2008-early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic Power/Ground Network and Floorplan Co-Design Method</title>
+      <link>/publication/wang-2008-heuristic/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2008-heuristic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jian He | wxy-team</title>
+    <link>/authors/jian-he/</link>
+      <atom:link href="/authors/jian-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jian He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jian He</title>
+      <link>/authors/jian-he/</link>
+    </image>
+    
+    <item>
+      <title>Fast Physics-Based Electromigration Analysis for Multi-Branch Interconnect Trees</title>
+      <link>/publication/wang-2017-fast/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2017-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-Based Electromigration Modeling and Assessment for Multi-Segment Interconnects in Power Grid Networks</title>
+      <link>/publication/wang-2017-physicsbased/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2017-physicsbased/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

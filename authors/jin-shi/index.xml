@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jin Shi | wxy-team</title>
+    <link>/authors/jin-shi/</link>
+      <atom:link href="/authors/jin-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jin Shi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jin Shi</title>
+      <link>/authors/jin-shi/</link>
+    </image>
+    
+    <item>
+      <title>GPU Friendly Fast Poisson Solver for Structured Power Grid Network Analysis</title>
+      <link>/publication/shi-2009-gpu/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/shi-2009-gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Stage Power Supply Planning: A Heuristic Method for Codesign of Power/Ground Network and Floorplan</title>
+      <link>/publication/wang-2008-early/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2008-early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic Power/Ground Network and Floorplan Co-Design Method</title>
+      <link>/publication/wang-2008-heuristic/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2008-heuristic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

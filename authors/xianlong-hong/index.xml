@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xianlong Hong | wxy-team</title>
+    <link>/authors/xianlong-hong/</link>
+      <atom:link href="/authors/xianlong-hong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xianlong Hong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Apr 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Xianlong Hong</title>
+      <link>/authors/xianlong-hong/</link>
+    </image>
+    
+    <item>
+      <title>An Efficient Decoupling Capacitance Optimization Using Piecewise Polynomial Models</title>
+      <link>/publication/wang-2009-efficient/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2009-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Stage Power Supply Planning: A Heuristic Method for Codesign of Power/Ground Network and Floorplan</title>
+      <link>/publication/wang-2008-early/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2008-early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic Power/Ground Network and Floorplan Co-Design Method</title>
+      <link>/publication/wang-2008-heuristic/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2008-heuristic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

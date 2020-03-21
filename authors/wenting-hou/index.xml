@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenting Hou | wxy-team</title>
+    <link>/authors/wenting-hou/</link>
+      <atom:link href="/authors/wenting-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenting Hou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wenting Hou</title>
+      <link>/authors/wenting-hou/</link>
+    </image>
+    
+    <item>
+      <title>GPU Friendly Fast Poisson Solver for Structured Power Grid Network Analysis</title>
+      <link>/publication/shi-2009-gpu/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/shi-2009-gpu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
